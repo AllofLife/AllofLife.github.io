@@ -2,7 +2,7 @@
 layout:     post
 title:      回环检测-Lightweight Unsupervised Deep Loop Closure
 subtitle:   无监督深度学习回环检测-重构hog描述子
-date:       2018-07-17
+date:       2019-07-17
 author:     zhufa
 header-img: img/post-bg-cook.jpg
 catalog: true
